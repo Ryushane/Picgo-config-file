@@ -12,11 +12,8 @@
     }
   },
   "picgoPlugins": {
-    "picgo-plugin-gitee-uploader": true,
     "picgo-plugin-github-plus": true,
-    "picgo-plugin-smms-user": true,
     "picgo-plugin-rename-file": true,
-    "picgo-plugin-super-prefix": true
   },
   "picgo-plugin-rename-file": {
     "format": "{y}/{m}/{d}/{origin}_{h}-{i}-{s}" // rename格式，具体配置说明前往 https://github.com/liuwave/picgo-plugin-rename-file 查看
